@@ -47,5 +47,5 @@ Model:
 - ✅ Endüstri standartlarında güvenilirlik değerlerine ulaşarak **otomatik kalite kontrol sistemi** olarak kullanılabilir seviyeye gelmiştir.
 -  
 ## 📊 Dataset
-Veri setine [buradan ulaşabilirsiniz]([https://drive.google.com/your-link](https://www.kaggle.com/datasets/concaption/pepsico-lab-potato-quality-control)).
+Veri seti: ([https://drive.google.com/your-link](https://www.kaggle.com/datasets/concaption/pepsico-lab-potato-quality-control)).
 ---
