@@ -45,6 +45,6 @@ Model:
 - ✅ Yüksek Recall (hatalı ürünleri kaçırmıyor)  
 - ✅ Endüstri standartlarında güvenilirlik değerlerine ulaşarak **otomatik kalite kontrol sistemi** olarak kullanılabilir seviyeye gelmiştir.
 -  
-## 📊 Dataset
+##  Dataset
 Veri seti:https://www.kaggle.com/datasets/concaption/pepsico-lab-potato-quality-control
 ---
